@@ -34,7 +34,7 @@ For unit testing framework [CuTest](https://github.com/ennorehling/cutest) has b
 ## Contributors
 - [Stefania Patsou](https://github.com/PiStefania)
 - [Andreas Tsolkas](https://github.com/andreasgtech)
-- [Orestis Garmpis](https://github.com/Pantokratoras7)
+- [Orestis Garmpis](https://github.com/ogarmpis)
 
 
 ## Reference
